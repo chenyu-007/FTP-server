@@ -1,0 +1,6 @@
+﻿  ftpclient.c
+C:\Users\Chenyu\Desktop\FTP\FTPcilent\ftpclient.c(48,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Chenyu\Desktop\FTP\FTPcilent\ftpclient.c(83,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chenyu\Desktop\FTP\FTPcilent\ftpclient.c(91,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chenyu\Desktop\FTP\FTPcilent\ftpclient.c(123,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FTPcilent.vcxproj -> C:\Users\Chenyu\Desktop\FTP\Debug\FTPcilent.exe

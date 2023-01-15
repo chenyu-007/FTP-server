@@ -1,0 +1,9 @@
+﻿  ftpserver.c
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(112,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(130,5): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(131,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(132,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(152,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(156,30): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\Chenyu\Desktop\FTP\FTPSERVER\ftpserver.c(146): warning C4715: “readfile”: 不是所有的控件路径都返回值
+  FTPSERVER.vcxproj -> C:\Users\Chenyu\Desktop\FTP\Debug\FTPSERVER.exe
