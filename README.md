@@ -17,6 +17,7 @@ c语言简易FTP协议实现，包含客户端与服务端<br>
 > * 传输结果
 
 <div align=center><img src="https://raw.githubusercontent.com/Eren-cc/FTP-server/main/image/003.png" height="400"/> </div>
+
 ## 项目待改进<br>
     未实现gui,服务器ip在客户端的代码逻辑中（注释很详细）<br>
     上传大文件速度过慢，可以考虑多线程加快文件传输<br>
