@@ -8,7 +8,7 @@ c语言简易FTP协议实现，包含客户端与服务端<br>
 ## 项目演示<br>
 > * 服务器运行
 
-<div align=center><img src="https://github.com/Eren-cc/FTP-server/tree/main/image/> </div>
+<div align=center><img src="https://github.com/Eren-cc/FTP-server/tree/main/image/001.png" height="400"> </div>
 
 > * 客户端运行
 
