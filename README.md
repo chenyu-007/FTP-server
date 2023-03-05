@@ -1,7 +1,7 @@
 # FTP-server
 c语言简易FTP协议实现，包含客户端与服务端<br>
 ## 项目实现<br>
-   项目在windows下实现，采用的idea为VS2019。主力语言为C语言，使用了windows下的winsock2库。<br>
+   项目在windows下实现，采用的ide为VS2019。主力语言为C语言，使用了windows下的winsock2库。<br>
    代码逻辑:采用状态机对报文进行解析并执行相应动作
 ## 项目功能<br>
    实现FTP协议的基本逻辑，实现了对大文件的分包传输.
